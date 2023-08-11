@@ -9,3 +9,9 @@ function main(){
 
 main()
 //console.log(main)
+
+function another(){
+  return null;
+}
+
+another() //another funciton
